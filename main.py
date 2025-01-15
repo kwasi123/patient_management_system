@@ -2,7 +2,7 @@
 
 
 def main() -> None:
-    print("Hello World!")
+    print("Hello, World!")
     print("Patients Management System (P.M.S)")
 
 
